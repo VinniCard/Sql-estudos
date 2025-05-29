@@ -1,4 +1,4 @@
-SQl para analise de daods. Do basico ao avançado.
+SQl para analise de daods. Do Basico ao Avançado.
 
 - Comando basicos
 - Operadores
