@@ -9,7 +9,7 @@ SQl para analise de daods. Do Basico ao Avançado.
 - Tratamento de dados
 - Manipulação de Tabelas
 
-Mini projeto;
+Mini projeto 1; Análise aconhapanhamento de vendas
 
 Objetivo: Fazer uma analise de vendas com os principais indicadores de desempenho e com os principais drivers dos resultados do Mês.
 
@@ -28,3 +28,11 @@ Objetivo: Fazer uma analise de vendas com os principais indicadores de desempenh
 
 - Visitas feitas ao site por dia da semana
   Observar quais dias da semana há um número maior de possiveis clientes visitando o site.
+
+Mini projeto 2; Análise do perfil dos clintes
+
+Objetivo: Fazer uma analise do perfil, com as principais características, dos clientes que visitam o site de uma empresa.
+
+- Analisar os principais genêros, status profissional, faixa etária e faixa salarial, dos clientes que visitam os sites.
+
+- Analisar quais são os produtos mais buscados por esse clientes, sendo eles produtos novos ou semi-novos, a idade do produto e quais as marcas mais visitadas
